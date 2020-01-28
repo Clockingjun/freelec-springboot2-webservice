@@ -2,6 +2,7 @@ package com.jojoldu.book.springboot.web;
 
 import com.jojoldu.book.springboot.service.posts.PostsService;
 import com.jojoldu.book.springboot.web.dto.PostsSaveRequestDto;
+import com.jojoldu.book.springboot.web.dto.PostsUpdateRequestDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
